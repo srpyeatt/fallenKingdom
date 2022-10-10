@@ -1,2 +1,2 @@
 # CPI111_FinalProject
-Final project for CPI 111: Game Development
+Final project for CPI 211: Game Development 2
