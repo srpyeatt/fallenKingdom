@@ -1,16 +1,6 @@
-# CPI 211 Final Project
-Repo for the Final Project from CPI 211: Game Development II
+# Fallen Kingdom
 
-This is the repo for our Final Prject for ASU's CPI 211 class!  I've listed below the other people that I worked with on this project along with what each of us did. Below the contributions is a link to my other groups members GitHub's so you can take a look at some of their other work!
+This is the repo for my final project revamped using Unity2D instead od GameMaker Studio 2
 
-Contributions: 
-Patrick J: Theme, Music, Meetings
-Emily W: Player and Enemy Programming
-Shelbie P: UI Design and Enemy Design
-Josh B: Level Design
-
-GitHub: 
-Emily W: https://github.com/ABunchOfSnails
-Josh B: N/A
-Patrick J: https://github.com/PatrickNWJ
-Shelbie P: https://github.com/srpyeatt
+Originaly, this was created for ASU's CPI 111: Game Development I class final project, so I wanted to re-create it using Unity's tools.
+Unity2D has more tools and a familiar environment personally, so I figured why not make a better game out of it!
